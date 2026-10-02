@@ -2,4 +2,4 @@
 
 ***Project In Progress***
 
-a roguelike game of adventure and wonder. made by 4 buddies!
+a roguelike game of adventure and wonder. made by 4 buddies!!
